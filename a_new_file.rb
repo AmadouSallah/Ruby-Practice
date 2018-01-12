@@ -3,4 +3,7 @@ p "Ruby is awesome"
 
 puts "We all love Ruby"
 
-pluts "Hi"
+puts "Hi"
+
+# Testing a new branch
+puts "Added a new branch, first_branch"
